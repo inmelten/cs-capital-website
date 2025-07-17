@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg12823"
+   width="280"
+   height="280"
+   viewBox="0 0 280 280"
+   sodipodi:docname="C&amp;S Capital Icon Logo solid circle allturq.svg"
+   inkscape:export-filename="CSMBI Logo.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12827">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12839">
+      <path
+         d="M 0,0 H 1562.5 V 1593.75 H 0 Z"
+         clip-rule="evenodd"
+         id="path12837" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12851">
+      <path
+         d="M 0,0 H 1562.5 V 1562.5 H 0 Z"
+         clip-rule="evenodd"
+         id="path12849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12863">
+      <path
+         d="M 347.46146,347.46146 H 1216.2115 V 1216.2115 H 347.46146 Z"
+         clip-rule="evenodd"
+         id="path12861" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12881">
+      <path
+         d="M 0,0 H 1562.5 V 1562.5 H 0 Z"
+         clip-rule="evenodd"
+         id="path12879" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12825"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.054"
+     inkscape:cx="49.415774"
+     inkscape:cy="152.62902"
+     inkscape:window-width="2026"
+     inkscape:window-height="1205"
+     inkscape:window-x="127"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12831" />
+  <g
+     id="g12831"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(0.31999998,0,0,0.31999998,-111.20342,-110.58905)"
+     style="display:inline">
+    <g
+       id="g13674" />
+    <g
+       id="g12875">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:364.915px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#358e9d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82933"
+         id="text12887"
+         x="422.28555"
+         y="909.8988"><tspan
+           sodipodi:role="line"
+           id="tspan412"
+           x="422.28555"
+           y="909.8988"
+           style="fill:#358e9d;fill-opacity:1;stroke-width:5.82933">C&amp;S</tspan></text>
+    </g>
+    <ellipse
+       style="fill:none;stroke:#358e9d;stroke-width:30.4858;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4883"
+       cx="785.01074"
+       cy="783.09082"
+       rx="422.25714"
+       ry="422.2572" />
+  </g>
+</svg>
